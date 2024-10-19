@@ -13,7 +13,6 @@ export const Columns = [
         <BsCalendarDate size={25} /> Date
       </>
     ),
-    Footer: "Date",
     accessor: "date",
   },
   {
@@ -22,7 +21,6 @@ export const Columns = [
         <PiHandWithdraw size={25} /> Mode
       </>
     ),
-    Footer: "Mode",
     accessor: "mode",
   },
   {
@@ -31,7 +29,6 @@ export const Columns = [
         <GiTakeMyMoney size={25} /> Amount
       </>
     ),
-    Footer: "Amount",
     accessor: "amount",
   },
   {
@@ -40,7 +37,6 @@ export const Columns = [
         <GrStatusUnknown size={25} /> Status
       </>
     ),
-    Footer: "Status",
     accessor: "status",
     Cell: ({ value }) => {
         // Conditionally render icons and colors based on status

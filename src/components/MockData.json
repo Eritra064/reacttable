@@ -22,5 +22,53 @@
         "mode": "Cheque",
         "amount": 1000,
         "status": "Completed"
+    },
+    {
+        "date" : "20.07.24",
+        "mode": "BFTN",
+        "amount": 2000,
+        "status": "Pending"
+    },
+    {
+        "date" : "20.04.24",
+        "mode": "RTGS",
+        "amount": 1000,
+        "status": "Completed"
+    },
+    {
+        "date" : "20.06.24",
+        "mode": "BFTN",
+        "amount": 1500,
+        "status": "Completed"
+    },
+    {
+        "date" : "20.05.24",
+        "mode": "Cheque",
+        "amount": 1000,
+        "status": "Completed"
+    },
+    {
+        "date" : "20.07.24",
+        "mode": "BFTN",
+        "amount": 2000,
+        "status": "Pending"
+    },
+    {
+        "date" : "20.04.24",
+        "mode": "RTGS",
+        "amount": 1000,
+        "status": "Completed"
+    },
+    {
+        "date" : "20.06.24",
+        "mode": "BFTN",
+        "amount": 1500,
+        "status": "Completed"
+    },
+    {
+        "date" : "20.05.24",
+        "mode": "Cheque",
+        "amount": 1000,
+        "status": "Completed"
     }
 ]
