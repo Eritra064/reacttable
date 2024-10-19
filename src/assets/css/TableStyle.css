@@ -1,0 +1,31 @@
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+table td,th {
+    border-bottom: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+  }
+  
+/* table tr:nth-child(even){background-color: #f2f2f2;} */
+table tr:hover {background-color: #ddd;}
+  
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+  }
+
+.pending-status {
+    color: yellow;
+  }
+  
+.completed-status {
+    color: green;
+  }
+  
